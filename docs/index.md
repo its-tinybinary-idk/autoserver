@@ -3,7 +3,7 @@
 
 ---
 
-## 🇯🇵 日本語
+## AutoServer
 
 純粋な Go で書かれた、ちっちゃくて依存ゼロのローカル Web サーバー。HTML/CSS/JS が入ったフォルダにバイナリをポイっと置いて実行するだけで、同じ Wi-Fi 上のどの端末とでもすぐ共有できる。
 
@@ -31,7 +31,7 @@
 
 ## 📦 ダウンロード
 
-[Releases](../../releases) ページから自分のプラットフォーム用のバイナリを取ってくれ。
+[Releases](https://github.com/its-tinybinary-idk/autoserver/releases) ページから自分のプラットフォーム用のバイナリを取ってくれ。
 
 | プラットフォーム | バイナリ |
 |----------|--------|
@@ -45,7 +45,7 @@
 
 ## 🚀 クイックスタート
 
-1. [Releases](../../releases) から自分の OS 用のバイナリをダウンロード
+1. [Releases](https://github.com/its-tinybinary-idk/autoserver/releases) から自分の OS 用のバイナリをダウンロード
 2. Linux/macOS なら実行権限を付ける:
 
    ```sh
