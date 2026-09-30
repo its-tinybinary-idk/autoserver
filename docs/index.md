@@ -136,7 +136,7 @@ CGO_ENABLED=0 GOOS=linux   GOARCH=amd64 go build -o autoserver-linux
 
 ---
 
-🙏 使ってるもの
+ 使ってるもの
 
 · Go — ランタイムそのもの
 · skip2/go-qrcode 

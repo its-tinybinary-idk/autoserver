@@ -137,7 +137,7 @@ CGO_ENABLED=0 GOOS=linux   GOARCH=amd64 go build -o autoserver-linux
 
 ---
 
-🙏 使ってるもの
+ 使ってるもの
 
 · Go — ランタイムそのもの
 · skip2/go-qrcode 
@@ -283,7 +283,7 @@ Three commands. Five platforms. No suffering.
 
 ---
 
-🙏 Built With
+ Built With
 
 · Go — the entire runtime
 · skip2/go-qrcode 
